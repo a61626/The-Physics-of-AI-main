@@ -12,4 +12,4 @@ public class UpdateMove : MonoBehaviour {
     }
 }
 
-//b hjkbnjlkygugnjbnklç.
+//b hjkbnjlkygu
